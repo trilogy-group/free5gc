@@ -9,7 +9,7 @@
 	url = https://github.com/free5gc/n3iwf.git
 [submodule "nrf"]
 	path = NFs/nrf
-	url = https://github.com/free5gc/nrf.git
+	url = https://github.com/trilogy-group/free5gc-nrf.git
 [submodule "nssf"]
 	path = NFs/nssf
 	url = https://github.com/free5gc/nssf.git
